@@ -1,0 +1,34 @@
+
+
+.home_h1{
+    color: #1E1E1E;
+    font-family: UniversityRoman;
+    font-size: 128px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 4px;
+    text-align: center;
+}
+
+.home_p{
+    color: #000;
+    font-family: Montserrat Alternates;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 42px;
+    text-align: center;
+}
+
+.home_btn{
+    color: #FFF4CF;
+    text-align: center;
+    font-family: Montserrat Alternates;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    background: #6FBC29;
+}
